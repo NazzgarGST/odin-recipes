@@ -1,27 +1,40 @@
-*{
+* {
     background-color: rgb(131, 126, 126);
     color: white;
 }
-a{
+
+a {
     font-size: 24px;
 }
-.main{
+
+.main {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     color: red;
 }
-img{
+
+img {
     text-align: center;
 }
 
-h2{
+h2 {
     color: red;
+    text-align: center;
 }
 
-em{
+em {
     color: black;
 }
 
-h3{
+h3 {
     color: antiquewhite;
+}
+
+li {
+    margin: 8px;
+}
+
+.card {
+    width: 400px;
+    border: 2px solid red;
 }
